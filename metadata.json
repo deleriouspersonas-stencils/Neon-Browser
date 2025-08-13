@@ -1,0 +1,5 @@
+{
+  "name": "Neon-Browser",
+  "description": "A standalone secure browser built on the Neon-Protocol. Features integrated TOR-like anonymity, a suite of aggressive networking tools for unrestricted access, and a professional enterprise-grade interface.",
+  "requestFramePermissions": []
+}
